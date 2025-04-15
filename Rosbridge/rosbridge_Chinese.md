@@ -110,6 +110,7 @@ ros2 topic list | grep compressed
 ros2 run image_transport republish raw --ros-args -r in:=/camera/image_raw -r out:=/camera/image_raw/compressed
 
 ```
+![vmware_0KCy19S5xt](https://github.com/user-attachments/assets/eafe45a2-7fb8-4b5f-be21-460b72fbda5c)
 
 <img src="./resources/images/vmware_0KCy19S5xt.png" alt="vmware_0KCy19S5xt" style="zoom:50%;" />
 
