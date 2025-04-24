@@ -3,6 +3,7 @@ First of all
 - `Camera.py`: windows receives original camera themes
 - `Camera2.py`: windows receives compressed camera themes
 - `Keyboard_control_velocity.py`: keyboard control of turtlebot robot movement in ubuntu (W A S D)
+- Demo video link: https://udmercy0-my.sharepoint.com/:v:/g/personal/zhangxi24_udmercy_edu/EdmEcpYBiKpEjyIDNg0bGsIB6Gb41-nS5fL-4071Agi0SQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=qu7n3r
 
 ## rosbridge
 
